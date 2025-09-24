@@ -1,1 +1,0 @@
-# ADBMS-PRACTICE-4
